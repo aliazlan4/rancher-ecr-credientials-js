@@ -1,0 +1,20 @@
+{
+	"name": "rancher-ecr-credentials",
+	"repository": "https://github.com/aliazlan4/rancher-ecr-credientials-js",
+	"version": "0.0.1",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Ali Azlan",
+	"license": "ISC",
+	"dependencies": {
+		"aws-sdk": "^2.703.0",
+		"dotenv": "^8.2.0",
+		"node-fetch": "^2.6.0",
+		"psl": "^1.8.0"
+	}
+}
