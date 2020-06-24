@@ -1,4 +1,5 @@
-Rancher API V3 Supported AWS ECR password Sync tool
+# Rancher API V3 Supported AWS ECR password Sync tool
+
 
 It is a worker to fetch ECR registry password from AWS by access token method and then create/update registry in Rancher on regular intervals. Following are required environment variables:
 
